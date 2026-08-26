@@ -55,8 +55,9 @@ I enjoy working with **Python, MERN Stack, SQL, AI and Data Structures & Algorit
 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </p>
 
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=pragathiraj7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" /> </p>
+🤝 Let's Connect
+<p align="center"> <a href="https://linkedin.com/in/pragathiraj"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/pragathiraj7"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.hackerrank.com/pragathijacky"> <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/> </a> <a href="mailto:pragathijacky@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<h3 align="center"> 💙 Thanks for visiting my GitHub profile! </h3> <p align="center"> ⭐ Feel free to explore my repositories and connect with me! </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9FF&height=120&section=footer" /> </p>
 I'm particularly interested in turning ideas into practical projects and continuously improving my technical and problem-solving skills.
 
 ```text
