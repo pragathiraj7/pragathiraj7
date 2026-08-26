@@ -12,7 +12,7 @@ MCA Student | Python Developer | MERN Stack | SQL | AI Learner | Open Source Lea
   <img src="https://komarev.com/ghpvc/?username=pragathiraj7&label=Profile%20Views&color=00C9FF&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/pragathiraj7?label=Followers&style=for-the-badge&color=00C9FF" />
   <img src="https://img.shields.io/github/stars/pragathiraj7?label=Total%20Stars&style=for-the-badge&color=FFD700" />
-  <img src="https://img.shields.io/github/repos/pragathiraj7?label=Total%20Repos&style=for-the-badge&color=8A2BE2" />
+ 
 </p>
 
 ---
@@ -36,11 +36,7 @@ I'm interested in turning ideas into practical projects and continuously improvi
 🚀 Full-Stack Development
 📊 Data & Analytics
 
-🔥 Contribution Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=pragathiraj7&theme=tokyonight&hide_border=true&border_radius=10" /> </p>
-📈 Contribution & Commit Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=pragathiraj7&bg_color=0d1117&color=00C9FF&line=00C9FF&point=FFFFFF&area=true&hide_border=true" width="95%" /> </p>
-📅 Contribution Calendar
-<p align="center"> <img src="https://ghchart.rshah.org/00C9FF/pragathiraj7" alt="GitHub Contribution Calendar" /> </p>
+
+
 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </p>
