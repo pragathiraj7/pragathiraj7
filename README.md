@@ -40,25 +40,7 @@ I'm interested in turning ideas into practical projects and continuously improvi
 
 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </p>
-<!-- ====================================================== -->
-<!--              CONTRIBUTION ACTIVITY                    -->
-<!-- ====================================================== -->
 
-<!-- ====================================================== -->
-<!--              CONTRIBUTION ACTIVITY                    -->
-<!-- ====================================================== -->
-
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" 
-    alt="Pragathi's GitHub Contribution Snake"
-  />
-</p>
-
----
 
 # 📊 GitHub Contributions
 
