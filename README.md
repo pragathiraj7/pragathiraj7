@@ -36,7 +36,23 @@ I'm interested in turning ideas into practical projects and continuously improvi
 🚀 Full-Stack Development
 📊 Data & Analytics
 </pre>
+# 📊 GitHub Analytics
 
+<p align="center">
+
+  <img 
+    width="49%" 
+    src="https://github-readme-stats.vercel.app/api?username=pragathiraj7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    alt="Pragathi's GitHub Stats"
+  />
+
+  <img 
+    width="49%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragathiraj7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Pragathi's Most Used Languages"
+  />
+
+</p>
 
 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </p>
