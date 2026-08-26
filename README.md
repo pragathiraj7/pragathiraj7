@@ -49,10 +49,22 @@ I'm interested in turning ideas into practical projects and continuously improvi
 <!-- ====================================================== -->
 
 
-# 📈 Contribution Activity
+# 🐍 Contribution Snake
 
 <p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" 
+    alt="Pragathi's GitHub Contribution Snake"
+  />
+</p>
 
-![Pragathi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pragathiraj7&theme=tokyo-night)
+---
 
+# 📊 GitHub Contributions
+
+<p align="center">
+  <img 
+    src="https://ghchart.rshah.org/00C9FF/pragathiraj7" 
+    alt="Pragathi's GitHub Contributions"
+  />
 </p>
