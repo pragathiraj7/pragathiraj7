@@ -25,7 +25,7 @@ I enjoy working with **Python, MERN Stack, SQL, AI and Data Structures & Algorit
 
 I'm interested in turning ideas into practical projects and continuously improving my technical and problem-solving skills.
 
-
+<pre>
 🎓 MCA Student
 🐍 Python Developer
 💻 MERN Stack Enthusiast
@@ -35,8 +35,21 @@ I'm interested in turning ideas into practical projects and continuously improvi
 🌐 Open Source Learner
 🚀 Full-Stack Development
 📊 Data & Analytics
-
+</pre>
 
 
 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </p>
+<!-- ====================================================== -->
+<!--              CONTRIBUTION ACTIVITY                    -->
+<!-- ====================================================== -->
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pragathiraj7&bg_color=0d1117&color=00C9FF&line=00C9FF&point=FFFFFF&area=true&hide_border=true"
+    width="95%"
+    alt="Pragathi's GitHub Contribution Activity"
+  />
+</p>
