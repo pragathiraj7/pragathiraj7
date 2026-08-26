@@ -11,7 +11,7 @@ MCA Student | Python Developer | MERN Stack | SQL | AI Learner | Open Source Lea
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pragathiraj7&label=Profile%20Views&color=00C9FF&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/pragathiraj7?label=Followers&style=for-the-badge&color=00C9FF" />
-  <img src="https://img.shields.io/github/stars/pragathiraj7?label=Total%20Stars&style=for-the-badge&color=FFD700" />
+ 
  
 </p>
 
@@ -44,11 +44,15 @@ I'm interested in turning ideas into practical projects and continuously improvi
 <!--              CONTRIBUTION ACTIVITY                    -->
 <!-- ====================================================== -->
 
+<!-- ====================================================== -->
+<!--              CONTRIBUTION ACTIVITY                    -->
+<!-- ====================================================== -->
+
 # 📈 Contribution Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=pragathiraj7&bg_color=0d1117&color=00C9FF&line=00C9FF&point=FFFFFF&area=true&hide_border=true"
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pragathiraj7&theme=tokyo-night&hide_border=true&area=true"
     width="95%"
     alt="Pragathi's GitHub Contribution Activity"
   />
