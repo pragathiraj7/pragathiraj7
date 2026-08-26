@@ -28,6 +28,7 @@
 
 </p>
 
+---
 
 <!-- ====================================================== -->
 <!--                       ABOUT ME                         -->
@@ -35,12 +36,9 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Pragathi Raj**, an MCA student and technology enthusiast 
-who enjoys building practical applications and learning new technologies.
+Hi! I'm **Pragathi Raj**, an MCA student and technology enthusiast who enjoys building practical applications and learning new technologies.
 
 I enjoy working with **Python, MERN Stack, SQL, AI and Data Structures & Algorithms**.
-📊 GitHub Analytics
-<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pragathiraj7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragathiraj7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> </p>
 
 I'm particularly interested in turning ideas into practical projects and continuously improving my technical and problem-solving skills.
 
@@ -53,20 +51,5 @@ I'm particularly interested in turning ideas into practical projects and continu
 🧠 Data Structures & Algorithms
 🌐 Open Source Learner
 🚀 Full-Stack Development
-📊 Data & Analytics
-
-
-
-📈 Contribution & Commit Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=pragathiraj7&bg_color=0d1117&color=00C9FF&line=00C9FF&point=FFFFFF&area=true&hide_border=true" width="95%" /> </p>
-
-
-📅 Contribution Calendar
-<p align="center"> <img src="https://ghchart.rshah.org/00C9FF/pragathiraj7" alt="GitHub Contribution Calendar" /> </p>
-
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </p>
-
-🤝 Let's Connect
-<p align="center"> <a href="https://linkedin.com/in/pragathiraj"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/pragathiraj7"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.hackerrank.com/pragathijacky"> <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/> </a> <a href="mailto:pragathijacky@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
-<h3 align="center"> 💙 Thanks for visiting my GitHub profile! </h3> <p align="center"> ⭐ Feel free to explore my repositories and connect with me! </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9FF&height=120&section=footer" /> </p>
+📊 Data & Analytic
+text
