@@ -39,7 +39,24 @@ Hi! I'm **Pragathi Raj**, an MCA student and technology enthusiast
 who enjoys building practical applications and learning new technologies.
 
 I enjoy working with **Python, MERN Stack, SQL, AI and Data Structures & Algorithms**.
+📊 GitHub Analytics
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pragathiraj7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragathiraj7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> </p>
+⭐ GitHub Statistics
+<p align="center"> <img src="https://img.shields.io/github/repos/pragathiraj7?style=for-the-badge&logo=github&label=Total%20Repositories&color=8A2BE2" /> <img src="https://img.shields.io/github/stars/pragathiraj7?style=for-the-badge&logo=github&label=Total%20Stars&color=FFD700" /> <img src="https://img.shields.io/github/followers/pragathiraj7?style=for-the-badge&logo=github&label=Followers&color=00C9FF" /> <img src="https://komarev.com/ghpvc/?username=pragathiraj7&style=for-the-badge&label=Profile%20Views&color=00C9FF" /> </p>
 
+
+📈 Contribution & Commit Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=pragathiraj7&bg_color=0d1117&color=00C9FF&line=00C9FF&point=FFFFFF&area=true&hide_border=true" width="95%" /> </p>
+
+
+📅 Contribution Calendar
+<p align="center"> <img src="https://ghchart.rshah.org/00C9FF/pragathiraj7" alt="GitHub Contribution Calendar" /> </p>
+
+🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </p>
+
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=pragathiraj7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" /> </p>
 I'm particularly interested in turning ideas into practical projects and continuously improving my technical and problem-solving skills.
 
 ```text
