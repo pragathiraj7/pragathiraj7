@@ -57,11 +57,4 @@ I'm interested in turning ideas into practical projects and continuously improvi
 
 
 
-# 📊 GitHub Contributions
 
-<p align="center">
-  <img 
-    src="https://ghchart.rshah.org/00C9FF/pragathiraj7" 
-    alt="Pragathi's GitHub Contributions"
-  />
-</p>
