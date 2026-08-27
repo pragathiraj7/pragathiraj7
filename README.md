@@ -41,7 +41,7 @@ I'm interested in turning ideas into practical projects while continuously impro
 
 ## 🔭 Currently Working On
 
-- 💻 Full-Stack Web Applications using the **MERN Stack**
+
 - 🛒 E-Commerce Projects
 - 🤖 AI-powered applications
 - 🐍 Python programming
@@ -59,17 +59,6 @@ I'm interested in turning ideas into practical projects while continuously impro
 
 ---
 
-## 💬 Ask Me About
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MERN%20Stack-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
----
 
 ## 🚀 Featured Projects
 
@@ -95,17 +84,7 @@ An automated irrigation system using soil moisture sensors to determine when pla
 
 ---
 
-### 🐍 Python Practice
 
-A collection of Python programs focused on:
-
-- Problem Solving
-- Algorithms
-- Data Structures
-- Logical Problems
-- Python Fundamentals
-
----
 
 ## 🛠️ Languages & Tools
 
