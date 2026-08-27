@@ -10,7 +10,7 @@ MCA Student | Python Developer | MERN Stack | SQL | AI Learner | Open Source Lea
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pragathiraj7&label=Profile%20Views&color=00C9FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/pragathiraj7?label=Followers&style=for-the-badge&color=00C9FF" />
+  
  
  
 </p>
@@ -54,8 +54,7 @@ I'm interested in turning ideas into practical projects and continuously improvi
 
 </p>
 
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </p>
+
 
 
 # 📊 GitHub Contributions
