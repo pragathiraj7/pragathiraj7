@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pragathiraj7&label=Profile%20Views&color=00C9FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/pragathiraj7?label=Followers&style=for-the-badge&color=00C9FF" alt="Followers" />
+
 </p>
 
 ---
@@ -130,13 +130,7 @@ An automated irrigation system using soil moisture sensors to determine when pla
 
 ---
 
-# 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pragathiraj7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 # 📅 GitHub Contribution Calendar
 
